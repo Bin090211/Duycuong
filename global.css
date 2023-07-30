@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-im-fell-great-primer-sc: "IM FELL Great Primer SC";
+  --font-gravitas-one: "Gravitas One";
+  --font-praise: Praise;
+  --font-roboto-flex: "Roboto Flex";
+  --font-miltonian-tattoo: "Miltonian Tattoo";
+  --font-baskervville: Baskervville;
+  --font-baloo-2: "Baloo 2";
+  --font-cardo: Cardo;
+  --font-baloo: Baloo;
+  --font-hammersmith-one: "Hammersmith One";
+  --font-molle: Molle;
+  --font-libre-baskerville: "Libre Baskerville";
+  --font-oleo-script-swash-caps: "Oleo Script Swash Caps";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-77xl: 96px;
+  --font-size-45xl: 64px;
+  --font-size-181xl: 200px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #1f383d;
+  --color-darkslategray-200: rgba(31, 56, 61, 0.79);
+  --color-darkslategray-300: rgba(31, 56, 61, 0.78);
+  --color-gray-100: rgba(255, 255, 255, 0.08);
+  --color-gray-200: rgba(255, 255, 255, 0.13);
+  --color-gray-300: rgba(0, 0, 0, 0.5);
+
+  /* border radiuses */
+  --br-119xl: 138px;
+  --br-56xl-5: 75.5px;
+}

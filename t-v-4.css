@@ -1,0 +1,106 @@
+.logo-design,
+.tham-gia-thit {
+  position: absolute;
+  display: inline-block;
+}
+.logo-design {
+  top: 88px;
+  left: 34px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-oleo-script-swash-caps);
+  width: 678px;
+  height: 166px;
+}
+.tham-gia-thit {
+  top: 444px;
+  left: 1466px;
+  font-family: var(--font-libre-baskerville);
+  width: 321px;
+}
+.tv-4-child {
+  position: absolute;
+  top: 85px;
+  left: 75px;
+  border-radius: var(--br-56xl-5);
+  width: 597px;
+  height: 151px;
+}
+.home3 {
+  position: absolute;
+  top: 11px;
+  left: 38px;
+  display: inline-block;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-22-button5 {
+  position: absolute;
+  top: 97px;
+  left: 1307px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 250px;
+  height: 75px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-gravitas-one);
+}
+.div2 {
+  position: absolute;
+  top: -9px;
+  left: 68px;
+  cursor: pointer;
+}
+.frame-21-button4 {
+  position: absolute;
+  top: 97px;
+  left: 1047px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 202px;
+  height: 71px;
+}
+.div3 {
+  position: absolute;
+  top: -4px;
+  left: 100px;
+  cursor: pointer;
+}
+.frame-21-button5 {
+  position: absolute;
+  top: 99px;
+  left: 1615px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 242px;
+  height: 71px;
+}
+.e3f661285d3568d0fc22-icon {
+  position: absolute;
+  top: 331px;
+  left: 120px;
+  width: 567px;
+  height: 577px;
+  object-fit: cover;
+}
+.tv-4-item {
+  position: absolute;
+  top: 345px;
+  left: 1436px;
+  border-radius: var(--br-119xl);
+  background-color: var(--color-gray-200);
+  width: 389px;
+  height: 479px;
+}
+.tv-4 {
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-hammersmith-one);
+}
